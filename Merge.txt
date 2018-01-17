@@ -1,0 +1,3 @@
+Un conflit survient quand un même fichier "pushé" contient des données différentes.
+Un merge consiste à fusionner les deux versions de ce fichier afin de résoudre le conflit.
+Pour résoudre le conflit, il faut aller voir dans le fichier en question, repérer l'endroit du conflit puis repérer <<<<<<< HEAD [version locale des données conflictueuses] ======= [version du serveur des données conflictueuses] >>>>>>> master

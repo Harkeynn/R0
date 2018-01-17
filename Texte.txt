@@ -1,1 +1,2 @@
+Je suis un bout de texte, je viens de R1.
 Je suis un autre bout de texte, je viens de R2.
