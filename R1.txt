@@ -1,0 +1,2 @@
+R0 est le projet commun, l'origine.
+R1 et R2 sont deux projets ayant apporté chacun des modifications différentes au projet R0.
