@@ -1,0 +1,2 @@
+PUSH permet de pousser des données sur le repo en ligne.
+PULL permet de récupérer des données sur le repo en ligne.
